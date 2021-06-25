@@ -2,7 +2,7 @@
 This is the supporting GitHub link for the YouTube tutorial on configuring NGINX/Plus as Load Balancer
 
 
-## I have commented out all the load-balancing methods, so the default, round-robin would work with this configuration as is. 
+I have commented out all the load-balancing methods, so the default, round-robin would work with this configuration as is. 
 
 While Loop which I used to extract and print a specific value from the header:
 
